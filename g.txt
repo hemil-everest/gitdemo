@@ -1,4 +1,8 @@
 rev 2
 rev 2
+<<<<<<< Updated upstream
 rev 2
-rev2
+
+=======
+rev 2
+>>>>>>> Stashed changes
